@@ -165,7 +165,8 @@ If you find our work helpful for your research, please consider citing our paper
   title={{AeroVLA}: A Vision-Language-Action Model for {UAV} Navigation via Minimalist End-to-End Control},
   author={Xu, Peng and Deng, Zhengnan and Deng, Jiayan and Gu, Zonghua and Wan, Shaohua},
   booktitle={European Conference on Computer Vision (ECCV)},
+  pages={289--305},
   year={2026},
-  note={To appear}
+  publisher={Springer}
 }
 ```
