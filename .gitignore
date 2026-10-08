@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# manually installed dependencies
+flash_attn-2.5.8+cu122torch2.1cxx11abiFALSE-cp310-cp310-linux_x86_64.whl
+msgpack-rpc-python/
+
+# dataset and envs
+dataset_raw/
+envs/
